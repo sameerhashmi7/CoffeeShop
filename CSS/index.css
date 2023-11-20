@@ -96,7 +96,7 @@ html::-webkit-scrollbar{
 #about{
   width: 100%;
   height: 100vh;
-  background: #f7f5f2;
+  /* background: #f7f5f2; */
   font-family: 'Roboto', sans-serif;
 }
 #about .container{
@@ -152,7 +152,7 @@ html::-webkit-scrollbar{
 .top-cards{
   width: 100%;
   height: 60vh;
-  background: #f7f5f2;
+  /* background: #f7f5f2; */
   font-family: 'Roboto', sans-serif;
 }
 .heading2{
@@ -209,7 +209,7 @@ html::-webkit-scrollbar{
 /* menu */
 .menu{
   width: 100%;
-  background: #f7f5f2;
+  /* background: #f7f5f2; */
   font-family: 'Roboto', sans-serif;
 }
 .heading3{
@@ -255,7 +255,7 @@ html::-webkit-scrollbar{
 /* product */
 .product{
   width: 100%;
-  background: #f7f5f2;
+  /* background: #f7f5f2; */
   font-family: 'Roboto', sans-serif;
 }
 .heading4{
